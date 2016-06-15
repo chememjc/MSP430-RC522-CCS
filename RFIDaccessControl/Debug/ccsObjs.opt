@@ -1,0 +1,1 @@
+"./globals.obj" "./i2c.obj" "./main.obj" "./pcf8574lcd.obj" "./rc522.obj" "./rfid.obj" "./rs232shell.obj" "./spi.obj" "../lnk_msp430f2419.cmd" -l"libc.a" 
