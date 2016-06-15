@@ -12,3 +12,6 @@ UCAO/UCA1: A serial UART is used to help with debugging, it has a modifyable com
 UCB0: I2C bus is configured
 
 UCB1: SPI (for MFRC522 communication)
+
+#License
+Pick your favorite.  Feel free to take any of my code as public domain, do with it whatevery you please.  If it is helpful, great.  the rc522.c and rc522.h files are derived from https://github.com/choffee/Energia-Mfrc522/ so the license on those would fall under public domain as well.
