@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSP430F2419PN
+D 80 pin LQFP, 128KB Flash Memory, 4KB RAM
+K MSP430 MIXED SIGNAL MICROCONTROLLER
+F http://www.ti.com/lit/ds/symlink/msp430f2419.pdf
+$ENDCMP
+#
+#End Doc Library
